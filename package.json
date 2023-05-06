@@ -24,7 +24,7 @@
     "@types/jquery": "^3.3.0",
     "core-js": "^2.5.7",
     "fullcalendar": "3.6.1",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "moment": "^2.20.1",
     "ng-fullcalendar": "^1.6.1",
     "rxjs": "^6.2.2",
